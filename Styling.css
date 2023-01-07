@@ -1,0 +1,37 @@
+.body{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.info p{
+    display: inline;
+    padding: 10px; 
+}  
+
+.info{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+
+#date{
+    float: right;
+}
+
+.associate-product p{
+    display: inline-block;
+}
+
+.erp-product p{
+    display: inline-block;
+}
+
+.staff p{
+    display: inline-block;
+}
+
+.education p{
+    display: inline-block;
+}
