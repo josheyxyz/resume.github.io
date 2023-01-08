@@ -35,3 +35,16 @@
 .education p{
     display: inline-block;
 }
+
+.skills{
+    color: blue;
+}
+
+.skills ul{
+    display: inline-block;
+    margin-top: 0%;
+}
+
+.list1{
+    margin-right: 25%;
+}
